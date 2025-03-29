@@ -1,5 +1,6 @@
 # 🚀 Welcome to My GitHub! 👋  
-I'm **Muhammad Ahmed**, a 🔹 Frontend Developer specializing in **React ⚛️ | JavaScript ✨ | Tailwind CSS 🎨 | Material-UI 🖌️**.  <br/>
+I'm **Muhammad Ahmed** <br/> 
+A 🔹 Frontend Developer specializing in **React ⚛️ | JavaScript ✨ | Tailwind CSS 🎨 | Material-UI 🖌️**.  <br/>
 💡 Check out my latest projects and feel free to connect! 😊✨  <br/>
 
 
